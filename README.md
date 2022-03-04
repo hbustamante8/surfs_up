@@ -42,9 +42,9 @@ The dataframe below contains summary statistics of December weather data that is
 
 * Key points from additional queries
 
-  * Comparing both June queries, the count of days where weather has been greater than 70 degrees divided by the total count of June weather data comes out to 89.9% (1529/1700). 
+ * Comparing both June queries, the count of days where weather has been greater than 70 degrees divided by the total count of June weather data comes out to 89.9% (1529/1700). 
  * Comparing both December queries to the data, the count of days where weather has been greater than 70 degrees divided by the total count of December weather data comes out to 58.5% (887/1517). 
-  * Based on weather metrics available online, historically, weather in Oahu, Hawaii considered to be low if less than about 70 degrees. June weather looks great while December does not look as favorable. But it is also important to remember that December is one of the coldest months
+ * Based on weather metrics available online, historically, weather in Oahu, Hawaii considered to be low if less than about 70 degrees. June weather looks great while December does not look as favorable. But it is also important to remember that December is one of the coldest months
 
 ## Summary 
 
