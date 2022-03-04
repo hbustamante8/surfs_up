@@ -8,11 +8,14 @@ Repository is based on analysis of weather data  analysis with the use of SQLite
 ## Results
 
 June results summary is seen in image belowe after building a query using SQLAlchemy.
+
 ![image](https://user-images.githubusercontent.com/96553992/156702111-9f2384e2-5867-4ed9-bb5b-6c5457d5b1ac.png)
 
 
 
 December results summary is seen in image belowe after building a query using SQLAlchemy.
+
+![image](https://user-images.githubusercontent.com/96553992/156703526-e0d67ac3-2dfa-4ff6-9d4f-c962809a8431.png)
 
 
 
