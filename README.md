@@ -29,7 +29,7 @@ December results summary is seen in dataframe below after building a query using
   *  Standard deviation of December data is greater than June so more a bit more variation is expected in the December data.
 
 
-##Additonal information 
+### Additonal Results 
 
 The dataframe below contains summary statistics of June weather data that is greater than 70 degrees with a SQLAlechmy query.
 
