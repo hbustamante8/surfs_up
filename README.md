@@ -23,9 +23,9 @@ December results summary is seen in image belowe after building a query using SQ
 
 
 * Three key differences
-*  June, according to the summary statistics has more warmer weather on average. With June weather mean is 74.9 while December is at 71.0.
-*  December minimum weather value is 8 degrees lower than June's.
-*  There is more data on the June weather so it can be inferred that is a more accurate representation compared to December data.
+  *  June, according to the summary statistics has more warmer weather on average. With June weather mean is 74.9 while December is at 71.0.
+  *  December minimum weather value is 8 degrees lower than June's.
+  *  There is more data on the June weather so it can be inferred that is a more accurate representation compared to December data.
 
 ##Summary 
 
