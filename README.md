@@ -31,14 +31,19 @@ December results summary is seen in image belowe after building a query using SQ
 
 ##Additonal information 
 
-The table below are summary statistifcs of June weather data that is greater than 70 degrees.
+The table below are summary statistifcs of June weather data that is greater than 70 degrees with a SQLAlechmy query.
 <img width="161" alt="Screen Shot 2022-03-04 at 8 47 22 AM" src="https://user-images.githubusercontent.com/96553992/156774704-a0a60711-7c97-4036-ac8c-b179a7d9c34c.png">
 
 
-The table below are summary statistifcs of December weather data that is greater than 70 degrees.
+The table below are summary statistifcs of December weather data that is greater than 70 degrees with a SQLAlechmy query
 
 <img width="179" alt="Screen Shot 2022-03-04 at 8 47 37 AM" src="https://user-images.githubusercontent.com/96553992/156774723-53a84fb6-a668-451c-b89d-fdbc62cfb4e1.png">
 
+
+* Key points from addtional queries
+ * Comparing both June queries to the data, the count of days where weather has been greater than 70 degrees divided by the total count of June weather data comes out to 89.9% (1529/1700). 
+ * Comparing both December queries to the data, the count of days where weather has been greater than 70 degrees divided by the total count of Decemberweather data comes out to 58.5% (887/1517). 
+ * Based on weather research avaialbe, histroically, weather in Oahu, Hawaii is considered to be low if it is less than about 70 degrees. June weather looks great while December but it is also important to remember it is on of the coldest months.
 ##Summary 
 
 Based on the weather data, it can be concluded that the ice cream shop has a good chance of being successful in the Ohau, Hawaii. The average weather over the past 7 years of data for December and June look positive as both months are above 70 degrees. December may be a weaker sales based on the data, but this is as the lowest temperature it should get around the year. In context, June is not one of the warmest months according to other historical data.
